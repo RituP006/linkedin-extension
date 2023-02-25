@@ -1,0 +1,34 @@
+	
+.pop-up-container{
+	background-color: #191f2b; 
+	color: aliceblue;
+	width: 222px;
+}
+
+.header{
+	background-color: #2d3747;
+}
+
+.gear-color{
+	background-color: aliceblue;
+}
+
+#progress-indicator{
+	border: 7px solid white;
+	width: 50px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 26px;
+	border-radius: 50px
+}
+
+.custom-btn{
+    background: #f7b9b0;
+    border-radius: 4px;
+    border: 1px solid white;
+    padding: 3px 6px;
+    font-weight: 600;
+}
+
