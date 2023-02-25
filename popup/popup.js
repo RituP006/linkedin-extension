@@ -57,7 +57,7 @@ chrome.runtime.onConnect.addListener(function(port) {
       port.postMessage({received:true});
     }else{
       count = msg.count;
-      document.getElementById('progress-indicator').textContent = count;
+      document.getElementById('progress-indicator').textContent = count+1;
       if(count == totalCount-1){
         port.disconnect();
         markComplete();
