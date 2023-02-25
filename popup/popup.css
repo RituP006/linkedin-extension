@@ -25,9 +25,9 @@
 }
 
 .custom-btn{
-    background: #f7b9b0;
+    background: #68d391;
     border-radius: 4px;
-    border: 1px solid white;
+    border: 1px solid rgb(37, 28, 28);
     padding: 3px 6px;
     font-weight: 600;
 }
