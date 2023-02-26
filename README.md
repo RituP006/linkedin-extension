@@ -14,8 +14,8 @@ Follow below steps to install extension :
 
 > Click on load unpacked and select the downloaded folder named 'Chrome_extension'
 
-> Thats it extension is installed!  
+> That's it extension is installed!  
 
-Now go to your linkedIn page, search for people/roles you want to connect with and use the extension to send request as shown below.
+Now go to your LinkedIn page, search for people/roles you want to connect with and use the extension to send request as shown below.
 
 ### Short overview of extension [here](https://drive.google.com/file/d/1Uglhrb8tctnLv4oT5BYg15rMbDg4ln_D/view?usp=share_link)
