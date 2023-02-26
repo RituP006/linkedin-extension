@@ -19,3 +19,9 @@ Follow below steps to install extension :
 Now go to your LinkedIn page, search for people/roles you want to connect with and use the extension to send request as shown below.
 
 ### Short overview of extension [here](https://drive.google.com/file/d/1Uglhrb8tctnLv4oT5BYg15rMbDg4ln_D/view?usp=share_link)
+
+
+<img src="./assets/images/start_connecting.png" height=390 width=180> &nbsp; &nbsp; 
+
+
+<img src="./assets/images/completed.png" height=390 width=180> 
