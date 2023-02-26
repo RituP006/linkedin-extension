@@ -21,7 +21,7 @@ Now go to your LinkedIn page, search for people/roles you want to connect with a
 ### Short overview of extension [here](https://drive.google.com/file/d/1Uglhrb8tctnLv4oT5BYg15rMbDg4ln_D/view?usp=share_link)
 
 
-<img src="./assets/images/start_connecting.png" height=390 width=180> &nbsp; &nbsp; 
+<img src="./assets/images/start_connecting.png" height=300 width=500> &nbsp; &nbsp; 
 
 
-<img src="./assets/images/completed.png" height=390 width=180> 
+<img src="./assets/images/completed.png" height=300 width=500> 
